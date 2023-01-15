@@ -6,6 +6,7 @@ An interface for interacting with your computer using hand gestures 💻
 
 ```bash
 git clone https://github.com/Jdka1/Hand-Gesture-Computer-Interface.git
+cd Hand-Gesture-Computer-Interface
 python3 interface.py
 ```
 
