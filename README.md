@@ -1,6 +1,6 @@
 # Hand-Gesture-Computer-Interface
 
-An interface for interacting with your computer using hand gestures.
+An interface for interacting with your computer using hand gestures 💻
 
 This project was built using tensorflow for object detection to classify gestures, and pyautogui for mapping the gestures to keyboard and mouse actions.
 
@@ -8,3 +8,5 @@ This project was built using tensorflow for object detection to classify gesture
 - Four Finger Swipe
 - Click
 - Move Mouse
+
+Due to the speed of the object detection being slow, the mouse moving capapilities are slightly limited.
