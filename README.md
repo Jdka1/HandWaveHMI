@@ -5,8 +5,9 @@ An interface for interacting with your computer using hand gestures 💻
 ## Installation
 
 ```bash
-git clone https://github.com/Jdka1/Hand-Gesture-Computer-Interface.git```
-python3 interface.py```
+git clone https://github.com/Jdka1/Hand-Gesture-Computer-Interface.git
+python3 interface.py
+```
 
 This project was built using tensorflow for object detection to classify gestures, and pyautogui for mapping the gestures to keyboard and mouse actions.
 
