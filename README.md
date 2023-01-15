@@ -10,6 +10,8 @@ cd Hand-Gesture-Computer-Interface
 python3 interface.py
 ```
 
+#### Dependancies
+
 This project was built using tensorflow for object detection to classify gestures, and pyautogui for mapping the gestures to keyboard and mouse actions.
 
 ## Actions
