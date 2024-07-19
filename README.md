@@ -10,7 +10,7 @@ cd Hand-Gesture-Computer-Interface
 python3 interface.py
 ```
 
-### Dependancies
+### Dependencies
 
 This project was built using tensorflow for object detection to classify gestures, and pyautogui for mapping the gestures to keyboard and mouse actions.
 
@@ -19,7 +19,7 @@ This project was built using tensorflow for object detection to classify gesture
 - Move Mouse: Move hand around with your index finger and thumb out 👆
 - Click: While your hand is in the 'Move Mouse' position, move your thumb towards your index finger to click 🖱️
 
-Due to the speed of the object detection being slow, the mouse moving capapilities are slightly limited.
+Due to the speed of the object detection being slow, the mouse moving capabilities are slightly limited.
 
 ## Training
 
